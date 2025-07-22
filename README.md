@@ -71,7 +71,8 @@ Defensive Score: 60.0%
 
 ```
 pkmnCalcGeneral.py    # Main script for general dual-type calculation  
-README.md             # Project documentation  
+README.md             # Project documentation
+LICENSE.txt           # Project license
 ```
 
 ## 🎯 Ideal Use Cases
